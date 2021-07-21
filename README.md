@@ -14,4 +14,13 @@ Skills: JS / HTML / CSS/ FIGMA
 
 - [![Abdulmalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikobansa)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on A Social Network Project & Youtube. 
+- 🌱 I’m currently learning Javascript & React 
+- 👯 I’m looking to collaborate on Social Media Project 
+- 🤔 I’m looking for help with Backend & Javascript 
+- 💬 Ask me about Any Tech Stuff 
+- 📫 How to reach me: Social Media mostly Twitter 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Love meeting new people and also love coding & designing 
+
 
