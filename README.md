@@ -11,5 +11,7 @@
 - [Instagram - @malikobansa](https://instagram.com/malikobansa)
 - [LinkedIn - @Muhammad Abdulmalik Obansa](https://www.linkedin.com/in/muhammad-abdulmalik-obansa-5b4197198/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I do lot of stuffs & love meeting new people 
+- ⚡ Fun fact: I do lot of stuffs & love meeting new people
+- [![Abdulmalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikobansa)](https://github.com/anuraghazra/github-readme-stats)
+
 
