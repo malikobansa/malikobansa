@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **a social media project**
 
-- 🤝 I’m looking for help with **nothing for now**
+- 🤝 I’m looking for help with **Backend Engineering**
 
 - 👨‍💻 All of my projects are available at [malikobansa.github.io/Portfolio](malikobansa.github.io/Portfolio)
 
