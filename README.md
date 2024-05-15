@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/malikobansa" target="blank"><img src="https://img.shields.io/twitter/follow/malikobansa?logo=twitter&style=for-the-badge" alt="malikobansa" /></a> </p>
 
-- 🔭 I’m currently working on **a social media project**
+- 🔭 I’m currently working on **a fintech app called Nairaverse**
 
 - 🌱 I’m currently learning **Backend Engineering**
 
